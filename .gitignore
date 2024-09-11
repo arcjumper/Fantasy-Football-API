@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# SSL certificates and keys
+/my-local-ssl/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -267,4 +270,3 @@ dist
 
 # Dotenv files
 .env*
-
